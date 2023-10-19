@@ -27,8 +27,7 @@ To get started with this project, follow these steps:
 
 1. Clone the repository to your local machine:
 
-   git clone https://github.com/yourusername/your-repo.git
-
+   git clone git@github.com:titotarek/APIDataViewer.git
 
 ## Getting Started
 
