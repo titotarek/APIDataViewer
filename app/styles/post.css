@@ -1,0 +1,22 @@
+
+
+.page-title {
+	font-size: 24px;
+	color: #333;
+}
+
+.post-card {
+	background-color: #f0f0f0;
+	padding: 10px;
+	margin: 10px 0;
+	border: 1px solid #ddd;
+}
+
+.post-title {
+	font-size: 20px;
+	color: #333;
+}
+
+.post-body {
+	color: #666;
+}
